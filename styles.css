@@ -1,3 +1,7 @@
 .bg-bannar{
     background-color: rgb(227, 188, 188);
 }
+.img-design{
+    -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
